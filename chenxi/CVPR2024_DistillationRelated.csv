@@ -1,0 +1,200 @@
+﻿Title,url,note
+Adversarial Score Distillation: When score distillation meets GAN,https://arxiv.org/pdf/2312.00739v1.pdf,https://github.com/2y7c3/ASD
+Orchestrate Latent Expertise: Advancing Online Continual Learning with Multi-Level Supervision and Reverse Self-Distillation,https://arxiv.org/pdf/2404.00417.pdf,https://github.com/AnAppleCore/MOSE
+PartDistill: 3D Shape Part Segmentation by Vision-Language Model Distillation,https://arxiv.org/pdf/2312.04016,https://github.com/ardianumam/PartDistill
+SDSTrack: Self-Distillation Symmetric Adapter Learning for Multi-Modal Visual Object Tracking,https://arxiv.org/pdf/2403.16002.pdf,https://github.com/hoqolo/SDSTrack
+PeerAiD: Improving Adversarial Distillation from a Specialized Peer Tutor,https://arxiv.org/pdf/2403.06668,https://github.com/jaewonalive/PeerAiD
+CrossKD: Cross-Head Knowledge Distillation for Dense Object Detection,https://arxiv.org/pdf/2306.11369,https://github.com/jbwang1997/CrossKD
+On the Diversity and Realism of Distilled Dataset: An Efficient Dataset Distillation Paradigm,https://arxiv.org/pdf/2312.03526v1.pdf,https://github.com/LINs-lab/RDED
+SDPose: Tokenized Pose Estimation via Circulation-Guide Self-Distillation,https://arxiv.org/pdf/2404.03518.pdf,https://github.com/MartyrPenink/SDPose
+Asymmetric Masked Distillation for Pre-Training Small Foundation Models,https://arxiv.org/pdf/2311.03149.pdf,https://github.com/MCG-NJU/AMD
+Clockwork Diffusion: Efficient Generation With Model-Step Distillation,https://arxiv.org/pdf/2312.08128v2.pdf,https://github.com/Qualcomm-AI-research/clockwork-diffusion
+Weak-to-Strong 3D Object Detection with X-Ray Distillation,https://arxiv.org/pdf/2404.00679,https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools
+Scale Decoupled Distillation,https://arxiv.org/pdf/2403.13512.pdf,https://github.com/shicaiwei123/SDD-CVPR2024
+Not All Voxels Are Equal: Hardness-Aware Semantic Scene Completion with Self-Distillation,https://arxiv.org/pdf/2404.11958.pdf,https://github.com/songw-zju/HASSC
+Logit Standardization in Knowledge Distillation,https://arxiv.org/pdf/2403.01427.pdf,https://github.com/sunshangquan/logit-standardardization-KD
+Efficient Dataset Distillation via Minimax Diffusion,https://arxiv.org/pdf/2311.15529.pdf,https://github.com/vimar-gu/MinimaxDiffusion
+Exploiting Inter-sample and Inter-feature Relations in Dataset Distillation,https://arxiv.org/pdf/2404.00563.pdf,https://github.com/VincenDen/IID
+CLIP-KD: An Empirical Study of CLIP Model Distillation,https://arxiv.org/pdf/2307.12732.pdf,https://github.com/winycg/CLIP-KD
+Dancing with Still Images: Video Distillation via Static-Dynamic Disentanglement,https://arxiv.org/pdf/2312.00362.pdf,https://github.com/yuz1wan/video_distillation
+PromptKD: Unsupervised Prompt Distillation for Vision-Language Models,https://arxiv.org/pdf/2403.02781.pdf,https://github.com/zhengli97/PromptKD
+PracticalDG: Perturbation Distillation on Vision-Language Models for Hybrid Domain Generalization,https://arxiv.org/pdf/2404.09011,https://github.com/znchen666/HDG
+Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation,https://arxiv.org/pdf/2404.07933,https://keonhee-han.github.io/publications/kdbts/
+DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets,https://arxiv.org/pdf/2404.02900.pdf,https://rangwani-harsh.github.io/DeiT-LT
+4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling,https://sherwinbahmani.github.io/4dfy/paper.pdf,https://sherwinbahmani.github.io/4dfy
+CRKD: Enhanced Camera-Radar Object Detection with Cross-modality Knowledge Distillation,https://arxiv.org/pdf/2403.19104.pdf,https://song-jingyu.github.io/CRKD
+3D Paintbrush: Local Stylization of 3D Shapes with Cascaded Score Distillation,https://arxiv.org/pdf/2311.09571.pdf,https://threedle.github.io/3d-paintbrush
+One-step Diffusion with Distribution Matching Distillation,https://arxiv.org/pdf/2311.18828.pdf,https://tianweiy.github.io/dmd/
+Visual Program Distillation: Distilling Tools and Programmatic Reasoning into Vision-Language Models,https://arxiv.org/pdf/2312.03052v1.pdf,https://visual-program-distillation.github.io/
+Taming Mode Collapse in Score Distillation for Text-to-3D Generation,https://arxiv.org/pdf/2401.00909v1.pdf,https://vita-group.github.io/3D-Mode-Collapse/
+CAD: Photorealistic 3D Generation via Adversarial Distillation,https://arxiv.org/pdf/2312.06663v1.pdf,无开源代码
+CoDi: Conditional Diffusion Distillation for Higher-Fidelity and Faster Image Generation,https://openreview.net/pdf?id=FG9x4k2WZP,无开源代码
+De-confounded Data-free Knowledge Distillation for Handling Distribution Shifts,https://arxiv.org/pdf/2403.19539,无开源代码
+FreeKD: Knowledge Distillation via Semantic Frequency Prompt,https://arxiv.org/pdf/2311.12079.pdf,无开源代码
+KD-DETR: Knowledge Distillation for Detection Transformer with Consistent Distillation Points Sampling,https://arxiv.org/pdf/2211.08071.pdf,无开源代码
+RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features,https://arxiv.org/pdf/2403.05061.pdf,无开源代码
+Ranking Distillation for Open-Ended Video Question Answering with Insufficient Labels,https://arxiv.org/pdf/2403.14430.pdf,无开源代码
+SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation,https://arxiv.org/pdf/2312.05239v1.pdf,无开源代码
+VideoDistill: Language-aware Vision Distillation for Video Question Answering,https://arxiv.org/pdf/2404.00973.pdf,无开源代码
+Active Object Detection with Knowledge Aggregation and Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Active%20Object%20Detection%20with%20Knowledge%20Aggregation%20and%20Distillation%0A,无论文
+Adversarial Distillation Based on Slack Matching and Attribution Region Alignment,https://scholar.google.com/scholar?q=Adversarial+Distillation+Based+on+Slack+Matching+and+Attribution+Region+Alignment,无论文
+Adversarially Robust Few-shot Learning via Parameter Co-distillation of Similarity and Class Concept Learners,https://scholar.google.com/scholar?hl=zh-CN&q=Adversarially%20Robust%20Few-shot%20Learning%20via%20Parameter%20Co-distillation%20of%20Similarity%20and%20Class%20Concept%20Learners%0A,无论文
+Aligning Logits Generatively for Principled Black-Box Knowledge Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Aligning%20Logits%20Generatively%20for%20Principled%20Black-Box%20Knowledge%20Distillation%0A,无论文
+Building Vision-Language Models on Solid Foundations with Masked Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Building%20Vision-Language%20Models%20on%20Solid%20Foundations%20with%20Masked%20Distillation%0A,无论文
+CaKDP: Category-aware Knowledge Distillation and Pruning Framework for Lightweight 3D Object Detection,https://scholar.google.com/scholar?hl=zh-CN&q=CaKDP%3A%20Category-aware%20Knowledge%20Distillation%20and%20Pruning%20Framework%20for%20Lightweight%203D%20Object%20Detection%0A,无论文
+Class Incremental Learning with Multi-Teacher Distillation,https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Class+Incremental+Learning+with+Multi-Teacher+Distillation,无论文
+Correlation-Decoupled Knowledge Distillation for Multimodal Sentiment Analysis with Incomplete Modalities,https://scholar.google.com/scholar?hl=zh-CN&q=Correlation-Decoupled%20Knowledge%20Distillation%20for%20Multimodal%20Sentiment%20Analysis%20with%20Incomplete%20Modalities%0A,无论文
+Cross-dimension Affinity Distillation for 3D EM Neuron Segmentation,https://scholar.google.com/scholar?hl=zh-CN&q=Cross-dimension%20Affinity%20Distillation%20for%203D%20EM%20Neuron%20Segmentation%0A,无论文
+D3still: Decoupled Differential Distillation for Asymmetric Image Retrieval,https://scholar.google.com/scholar?hl=zh-CN&q=D3still%3A%20Decoupled%20Differential%20Distillation%20for%20Asymmetric%20Image%20Retrieval%0A,无论文
+DIOD: Self-Distillation Meets Object Discovery,https://scholar.google.com/scholar?hl=zh-CN&q=DIOD%3A%20Self-Distillation%20Meets%20Object%20Discovery%0A,无论文
+Incremental Nuclei Segmentation from Histopathological Images via Future-class Awareness and Compatibility-inspired Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Incremental%20Nuclei%20Segmentation%20from%20Histopathological%20Images%20via%20Future-class%20Awareness%20and%20Compatibility-inspired%20Distillation%0A,无论文
+MART: Masked Affective RepresenTation Learning via Masked Temporal Distribution Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=MART%3A%20Masked%20Affective%20RepresenTation%20Learning%20via%20Masked%20Temporal%20Distribution%20Distillation%0A,无论文
+NAYER: Noisy Layer Data Generation for Efficient and Effective Data-free Knowledge Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=NAYER%3A%20Noisy%20Layer%20Data%20Generation%20for%20Efficient%20and%20Effective%20Data-free%20Knowledge%20Distillation%0A,无论文
+Plug-and-Play Diffusion Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Plug-and-Play%20Diffusion%20Distillation%0A,无论文
+Posterior Distillation Sampling,https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Posterior+Distillation+Sampling,无论文
+Robust Distillation via Untargeted and Targeted Intermediate Adversarial Samples,https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Robust+Distillation+via+Untargeted+and+Targeted+Intermediate+Adversarial+Samples,无论文
+Small Scale Data-Free Knowledge Distillation,https://scholar.google.com/scholar?hl=zh-CN&q=Small%20Scale%20Data-Free%20Knowledge%20Distillation%0A,无论文
+Three Pillars improving Vision Foundation Model Distillation for Lidar,https://scholar.google.com/scholar?hl=zh-CN&q=Three%20Pillars%20improving%20Vision%20Foundation%20Model%20Distillation%20for%20Lidar%0A,无论文
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
